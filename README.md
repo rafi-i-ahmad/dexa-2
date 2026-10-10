@@ -3,7 +3,7 @@ A potential MRI based competitor to dual-energy X-ray absorptiometry (DEXA) scan
 
 ## main-question
 
-Could a dedicated low-field permanent-magnet (most are superconducting) MRI machine measure regional body composition well enough, quickly enough and cheaply enough to be worth manufacturing?
+Could a dedicated low-field, perma magnet (most MRIs are superconducting) MRI measure regional body composition well enough and quickly enough and cheaply enough to justify costs.
 
 If yeah, stonks.
 
@@ -28,9 +28,10 @@ we have an advantage of something that doesn't need ultra-high field strength fo
 
 ## Plan
 
-* Get some targets we'd need to hit like cost, quality etc. In particular we need to probably check if we even find this interesting enough to pursue. The physics required is pretty damn complex and it's a medical product I have no clue what regulation + approval times look like even we make a perfect revolutionary product.
+* We need to probably check if we even find this interesting enough to pursue. The physics required is pretty damn complex and it's a medical product I have no clue what regulation + approval times look like even we make a perfect revolutionary product.
 * Decide if we'd want to just manafacture or setup clincs
 * Work out who would even buy this stuff
+	* Get some targets we'd need to hit like cost, quality etc. For these buyers
 * Work out magnet strength (I think 0.2-0.5T) 
 	* Work out the magnet technology (I suggest perm magnet) 
 	* Decide on magnet length, I suggest we try to optimise for thinness (not too short otherwise end effects are mad)
