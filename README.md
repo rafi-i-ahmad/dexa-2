@@ -1,11 +1,26 @@
 # dexa-2
 A potential MRI based competitor to dual-energy X-ray absorptiometry (DEXA) scans.
 
+actual name is pending like it's mini-mri tbh
+
 ## main-question
 
 Could a dedicated low-field, perma magnet (most MRIs are superconducting) MRI measure regional body composition well enough and quickly enough and cheaply enough to justify costs.
 
 If yeah, stonks.
+
+### in-and-outs
+
+In: a person lies on a table inside a roughly 0.Xx Tesla permanent magnet for about 10-15 minutes, no radiation (makes this good for long term studies, like DEXA is still probably too much radiation for say weekly usage), no preparation beyond removing metal. Operator input is minimal stuff like height, weight, position (we can 1 and 3 with camera systems).
+
+Out: a report per visit with something like:
+
+	•	visceral (organ fat) and subcutaneous (above your muscle) fat volumes, by region (abdomen, thighs, arms)
+	•	skeletal muscle volume by region, plus fat infiltration into muscle
+	•	liver fat fraction (PDFF)
+	•	whole-body fat and lean totals
+	•	change since last visit with error bars
+___
 
 ## how-dexa-works
 
@@ -29,9 +44,9 @@ we have an advantage of something that doesn't need ultra-high field strength fo
 ## Plan
 
 * We need to probably check if we even find this interesting enough to pursue. The physics required is pretty damn complex and it's a medical product I have no clue what regulation + approval times look like even we make a perfect revolutionary product.
-* Decide if we'd want to just manafacture or setup clincs
+* Decide if we'd want to just manafacture or setup clinics too
 * Work out who would even buy this stuff
-	* Get some targets we'd need to hit like cost, quality etc. For these buyers
+	* Get some targets we'd need to hit like cost, quality etc. For these buyers to find us competitive
 * Work out magnet strength (I think 0.2-0.5T) 
 	* Work out the magnet technology (I suggest perm magnet) 
 	* Decide on magnet length, I suggest we try to optimise for thinness (not too short otherwise end effects are mad)
