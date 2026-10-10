@@ -51,3 +51,18 @@ we have an advantage of something that doesn't need ultra-high field strength fo
 	* Work out the magnet technology (I suggest perm magnet) 
 	* Decide on magnet length, I suggest we try to optimise for thinness (not too short otherwise end effects are mad)
 * Start actually vibe-physicsing and do first small experiments. Though these will be software experiments first.
+
+## Layout
+
+```
+README.md         this page
+NOTES-CLAUDE.md   physics notes: sequences, Dixon at low field, J-coupling, simulation, calibration
+papers/.          an area for interesting papers, blogs, chats etc. Will probs be renamed to info one day
+sims/halbach.py   finite-length Halbach field vs the ideal formula (about 6 s)
+sims/j_echo.py    J-coupling echo modulation vs field for small fat fragments (about 3 s)
+```
+
+## Reqs
+
+Run `pip install numpy scipy`, then `python sims/halbach.py` and `python sims/j_echo.py`. Both run self-checks before printing results. Keep participant data, scans, CAD files and supplier quotes out of Git.
+
