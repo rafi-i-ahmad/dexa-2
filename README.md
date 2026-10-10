@@ -64,5 +64,4 @@ sims/j_echo.py    J-coupling echo modulation vs field for small fat fragments (a
 
 ## Reqs
 
-Run `pip install numpy scipy`, then `python sims/halbach.py` and `python sims/j_echo.py`. Both run self-checks before printing results. Keep participant data, scans, CAD files and supplier quotes out of Git.
-
+Run `pip install numpy scipy`, then `python sims/halbach.py` and `python sims/j_echo.py`. Both run self-checks before printing results.
