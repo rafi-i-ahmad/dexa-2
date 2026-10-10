@@ -11,15 +11,15 @@ If yeah, stonks.
 
 ### in-and-outs
 
-In: a person lies on a table inside a roughly 0.Xx Tesla permanent magnet for about 10-15 minutes, no radiation (makes this good for long term studies, like DEXA is still probably too much radiation for say weekly usage), no preparation beyond removing metal. Operator input is minimal stuff like height, weight, position (we can 1 and 3 with camera systems).
+In: a person lies on a table inside a roughly 0.Xx Tesla permanent magnet for about 10-15 minutes, maybe with a moving table or magnet, definitely no radiation (makes this good for long term studies, like DEXA is still probably too much radiation for say weekly usage), no preparation beyond removing metal. Operator input is minimal stuff like height, weight, position (we can 1 and 3 with camera systems).
 
 Out: a report per visit with something like:
 
-	•	visceral (organ fat) and subcutaneous (above your muscle) fat volumes, by region (abdomen, thighs, arms)
-	•	skeletal muscle volume by region, plus fat infiltration into muscle
-	•	liver fat fraction (PDFF)
-	•	whole-body fat and lean totals
-	•	change since last visit with error bars
+	• visceral (organ fat) and subcutaneous (above your muscle) fat volumes, by region (abdomen, thighs, arms)
+	• skeletal muscle volume by region, plus fat infiltration into muscle
+	• liver fat fraction (PDFF)
+	• whole-body fat and lean totals
+	• change since last visit with error bars
 ___
 
 ## how-dexa-works
